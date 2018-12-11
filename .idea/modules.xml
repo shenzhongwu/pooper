@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka/application.iml" filepath="$PROJECT_DIR$/cloud-eureka/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway/application (1).iml" filepath="$PROJECT_DIR$/cloud-gateway/application (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config/application (1) (com.pooper).iml" filepath="$PROJECT_DIR$/cloud-config/application (1) (com.pooper).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-security/application (2).iml" filepath="$PROJECT_DIR$/cloud-security/application (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
     </modules>
   </component>

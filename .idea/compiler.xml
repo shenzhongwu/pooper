@@ -8,10 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="application" />
+        <module name="application (1)" />
+        <module name="application (1) (com.pooper)" />
+        <module name="application (2)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="application" target="1.8" />
+      <module name="application (1)" target="1.8" />
+      <module name="application (1) (com.pooper)" target="1.8" />
+      <module name="application (2)" target="1.8" />
       <module name="cloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>
